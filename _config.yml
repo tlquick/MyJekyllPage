@@ -1,3 +1,4 @@
 theme: minima
 title: My Project Blog
-baseurl:"MyProject"
+url: "https://tlquick.github.io/" # your main domain
+baseurl: "MyProject/"

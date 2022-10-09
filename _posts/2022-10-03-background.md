@@ -7,7 +7,7 @@ categories: jekyll update
 
 I was born in rural NSW and grew up on the family farm.
 I moved to Sydney when I finished school \
-![Sydney](/assets/sydney.jpg)
+<img src="{{ "/assets/sydney.jpg" | prepend: site.baseurl | prepend: site.url}}" alt="Sydney" />
 
 To go to uni at Macquarie \
-![MacU](/assets/macU.jpg)
+<img src="{{ "/assets/macU.jpg" | prepend: site.baseurl | prepend: site.url}}" alt="MacU" />
