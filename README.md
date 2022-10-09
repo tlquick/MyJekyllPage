@@ -7,5 +7,5 @@
 
 # My Blog Project
 
-_This site uses Jekyll and GitHub pages._
+_This site uses Jekyll and GitHub pages_
 
