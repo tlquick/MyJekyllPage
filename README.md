@@ -9,5 +9,3 @@
 
 _This site uses Jekyll and GitHub pages._
 
-**5 posts have been added using markDown for content**
-
