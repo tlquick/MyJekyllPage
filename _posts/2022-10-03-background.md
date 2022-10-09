@@ -7,7 +7,7 @@ categories: jekyll update
 
 I was born in rural NSW and grew up on the family farm.
 I moved to Sydney when I finished school \
-![Sydney](MyProject/assets/sydney.jpg)
+![Sydney](/assets/sydney.jpg)
 
 To go to uni at Macquarie \
-![MacU](MyProject/assets/macU.jpg)
+![MacU](/assets/macU.jpg)
